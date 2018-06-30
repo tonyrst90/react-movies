@@ -338,4 +338,10 @@ detailed explanations, cool features, and exercises to boost your skills. Give i
 
 <a href="https://jsm.dev/react25-jsmpro" target="_blank">
   <img src="public/readme/jsmpro.png" alt="Project Banner">
-</a>
+</a>// Change on 2018-09-10
+// Change on 2018-09-20
+// Change on 2018-10-09
+// Change on 2018-10-18
+// Change on 2018-11-06
+// Change on 2018-12-31
+// Change on 2019-04-26
